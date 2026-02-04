@@ -1,0 +1,7 @@
+{
+  "name": "System Security Analyzer",
+  "description": "A professional-looking system diagnostic tool that performs a deep scan of your device security protocols.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
